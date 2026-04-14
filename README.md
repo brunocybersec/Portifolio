@@ -1,3 +1,3 @@
-# [ * Clique Aqui para Visualizar Portifólio * ](https://brunocibersec.github.io/Portifolio/)
+# [ * Clique Aqui para Visualizar Portifólio * ](https://brunocybersec.github.io/Portifolio/)
 
  
